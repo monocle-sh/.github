@@ -1,12 +1,12 @@
-<img src="https://static.monocle.sh/og.jpg" />
+## Monocle
+**Your whole app, in focus. From localhost to production.**
 
-**monocle.sh** - observability that just works
+Traces, logs, errors, metrics, and dashboards. Uptime, alerts, and public status pages. Frontend monitoring, deployments, and cookieless analytics.
 
-every request traced. every error caught. every metric tracked.
-one tool. zero config. full picture.
+Monitor your AI calls, tokens, and costs. Give your coding agent access to your telemetry through MCP.
 
-built on opentelemetry. no vendor lock-in.
+Built for **AdonisJS**, powered by **OpenTelemetry**.
 
-we're cooking 🫕
+**Developing locally?** Monocle Studio brings traces, logs, and errors to your machine. Free, with a desktop app, CLI, and MCP server.
 
-[docs](https://docs.monocle.sh) · [website](https://monocle.sh) · [studio](https://github.com/monocle-sh/studio)
+[Website](https://monocle.sh) · [Docs](https://docs.monocle.sh) · [Studio](https://monocle.sh/docs/studio/overview)
