@@ -1,3 +1,5 @@
+<img src="https://static.monocle.sh/og.jpg" alt="Monocle" width="560" />
+
 ## Monocle
 **Your whole app, in focus. From localhost to production.**
 
